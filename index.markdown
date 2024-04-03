@@ -7,6 +7,4 @@ layout: home
 
 # Toby Davies' page
 
-## Papers
-[ViolationLS: Constraint-Based Local Search in CP-SAT](papers/ViolationLSPaper.pdf)
 
