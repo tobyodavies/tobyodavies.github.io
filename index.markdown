@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# Toby Davies' page
-
 
