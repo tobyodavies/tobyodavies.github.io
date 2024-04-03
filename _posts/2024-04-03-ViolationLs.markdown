@@ -10,5 +10,5 @@ The new solver significantly outperforms other CBLS solvers on the MiniZinc chal
 ViolationLS is integrated into the parallel portfolio framework of the state-of-the-art CP-SAT Lazy Clause Generation solver, and we show that this integration improves performance on more than half of the instances in the MiniZinc challenge.
 To our knowledge this is the first instance of such an integration of CBLS and Lazy Clause Generation inside the same solver.
 
-[pdf](/_papers/ViolationLSPaper.pdf)
+[pdf](/papers/ViolationLSPaper.pdf)
 
