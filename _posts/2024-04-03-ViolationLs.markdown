@@ -11,4 +11,5 @@ ViolationLS is integrated into the parallel portfolio framework of the state-of-
 To our knowledge this is the first instance of such an integration of CBLS and Lazy Clause Generation inside the same solver.
 
 [pdf](/papers/ViolationLSPaper.pdf)
+[slides](/papers/ViolationLSSlides.pdf)
 
